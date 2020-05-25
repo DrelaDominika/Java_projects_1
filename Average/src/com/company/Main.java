@@ -23,6 +23,7 @@ public class Main {
         double average = total / arr.length;
 
         System.out.format("Srednia tych liczb wynosi: %.3f", average);
+        
     }
 }
 
