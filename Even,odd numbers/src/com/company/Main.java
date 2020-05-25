@@ -13,5 +13,6 @@ public class Main {
             System.out.println(num + " jest parzysta");
         else
             System.out.println(num + " jest nieparzysta");
+   
     }
 }
