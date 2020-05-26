@@ -15,7 +15,7 @@ This repository consists of my first few projects in Java which were created in 
 ## Setup
 You can download the tool mentioned here: https://www.jetbrains.com/idea/download/#section=windows
 
-The Java Development Kit: https://www.oracle.com/java/technologies/javase-jdk11-downloads.html will alse be required.
+The Java Development Kit: https://www.oracle.com/java/technologies/javase-jdk11-downloads.html will also be required.
 
 ## Code Examples
 Code which allowes you to calculate the factorial of a given number:
